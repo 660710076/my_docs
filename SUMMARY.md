@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Access Element](README.md)
+* [Finding the Index of an Element](README.md)
